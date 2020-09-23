@@ -1,7 +1,9 @@
+def print_version_a():
+    print("a")
+
 def print_version_b():
-  print("b")
-<<<<<<< HEAD
+    print("b")
+
 def print_version_c():
-  print("c")
-=======
->>>>>>> branch1
+    print("c")
+
